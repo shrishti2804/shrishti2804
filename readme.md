@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrishti Sahu</h1>
-<h3 align="center">I'm pre final year student @JUET, Guna.</h3>
+<h3 align="center">I'm final year student @JUET, Guna.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
